@@ -2,7 +2,8 @@ import json
 import requests
 from typing import Dict, Any, List
 
-BASE_URL = "http://127.0.0.1:5000"
+# BASE_URL = "http://127.0.0.1:5000"
+BASE_URL = "https://murshid-backend.onrender.com"
 TIMEOUT = 120
 
 JSON_HEADERS = {
